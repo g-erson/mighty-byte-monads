@@ -1,0 +1,8 @@
+dist
+*.hi
+*.o
+solutions
+*.swp
+_site
+_cache
+hakyll/site
